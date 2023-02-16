@@ -49,6 +49,8 @@ If num = 40, pwr = 32. Then you log to your console in this format:
 If num = 50, pwr = 64.. Then you log to your console in this format:
 “The number 64 is the power of 2 nearest to 50.”
 
+##
+
 ### Arithmetic Operators
 
 Arithmetic operators are used to perform mathematical operations between numeric operands.
